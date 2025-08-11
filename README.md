@@ -46,7 +46,7 @@ text = ["Congratulations! You've won a $1000 Walmart gift card. Click here to cl
 
 **Output:**
 
-```
+```bash
 Prediction: spam
 ```
 
@@ -74,4 +74,3 @@ The dataset used in this project is the **SMS Spam Collection** dataset, origina
 * Add visualization of model performance
 
 ---
-
